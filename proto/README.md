@@ -1,15 +1,13 @@
 
+### TLDR
+
 To run and see the parsed results please execute the following command. 
 
 `python3.7 main.py txnlog.dat`
 
 This python script will help us parse a custom protocol format as desribed below.
 
-Parse a custom protocol format
-==============================
 
-Your application must interface with an old-school mainframe MPS7 for payment
-processing. This means consuming a proprietary binary protocol format.
 
 Task
 ----
